@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Juan, a frontend developer 👨‍💻 from Rosario, Argentina 🇦🇷
 
 - 🔭 I’m currently working on ...
-  improving my overall skills to become the best.
+  improving my overall skills to become an asset.
   
 - 🌱 I’m currently learning ...
   react mostly, an a few more useful frontend libraries.
