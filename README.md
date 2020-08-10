@@ -1,4 +1,4 @@
-###Hi 👋, I'm Juan, a frontend developer 👨‍💻 from Rosario, Argentina 🇦🇷
+## Hi 👋, I'm Juan, a frontend developer 👨‍💻 from Rosario, Argentina 🇦🇷 ##
 
 🔭 I’m currently working on ...
   improving my overall skills to become the best.
